@@ -1,9 +1,9 @@
 # Simple node server 
 
 ## Cos'è
-Questo e semplice server simplice server node per gestire per le operazione di crud per un sito
-che per salvare le foto. Queste piccolo progetto mi permesso di mettere mani ed acquisire le basi 
-per la gestione si server con un database non relazionale (Mongo)
+Questo è semplice  server node per gestire per le operazione di crud per un sito in cui gli utenti possono salvare informazioni, tra cui 
+nome e cognome, delle immagine. viene emplemntato inoltre anche la gestione dei token.
+Queste piccolo progetto mi è servito come esercizio per mettere mani ed acquisire le basi nella la gestione si server con un database non relazionale (Mongo)
 
 ## Tecnologie  e risorse
  
