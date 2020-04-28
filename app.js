@@ -7,7 +7,7 @@ const app = express();
 
 
 // da cancellare
-const pwd = 'Kczl8ahs';
+const pwd = '*********';
 // Mongo db connection
 // ho creato il account sul sito di mongoi db
 mongoose.connect('mongodb+srv://adjams:' + pwd +'@cluster0-nf9gi.mongodb.net/test?retryWrites=true&w=majority',

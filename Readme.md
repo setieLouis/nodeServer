@@ -1,20 +1,13 @@
-# Serve api with node
+# Simple node server 
 
-## Project scope 
+## Cos'è
+Questo e semplice server simplice server node per gestire per le operazione di crud per un sito
+che per salvare le foto. Queste piccolo progetto mi permesso di mettere mani ed acquisire le basi 
+per la gestione si server con un database non relazionale (Mongo)
 
-This project is thinking for handling BE for some Ecommerce web/mobile app. the project give some api to doing the following operation:
-
-* Add thing
-* Update (PUT)
-* Delete 
-
-I use this project to introduce me node js for be , doing Crus with [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-
-## tecnologie 
-
+## Tecnologie  e risorse
+ 
 for this project i use the folling framework:
-
-
 * [Node](https://nodejs.org/it/)
 * [Express](https://expressjs.com/it/)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
@@ -23,18 +16,12 @@ for this project i use the folling framework:
 * [Mongoose](https://mongoosejs.com/)
 * [Mongoose-unique-validator ](https://www.npmjs.com/package/mongoose-unique-validator)
 * [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+* [openclassrooms node js]('https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb') tutorial and i still reading [oncletom nodejs](https://oncletom.io/node.js/)   to study in deep nodejs [Fe and Be]
 
-
-## Source
-
-for this project i use [openclassrooms node js]('https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb') tutorial and i still reading [oncletom nodejs](https://oncletom.io/node.js/)   to study in deep nodejs [Fe and Be]
-
-## Extends 
-
-to use or extends this project you have fork it and use the following instructions 
-
+## Estendere 
+Questo progetto per chi vuole puo esteso facilmente, basta rispettare i seguenti passi 
 	git clone https://github.com/username/nodeServer.git
 	cd nodeServer 
 	npm install
  
-you have also to create a mongodb account and db. you can use free db to test.
+si deve inoltre creare un account Mongo db 
